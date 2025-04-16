@@ -1,3 +1,7 @@
+hii iam in python lab
+a=5678
+b=5799
+c=a*b
 
 
 
